@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env vars
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Downloads / outputs
+downloads/
+*.mp3
+*.webm
+*.m4a
